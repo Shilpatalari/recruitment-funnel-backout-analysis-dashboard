@@ -1,6 +1,3 @@
-# Onboarding Dashboard
-Power BI dashboard analyzing recruitment funnel, offer-to-join conversion ratio, and backout patterns with delay-based insights.
-
 # Recruitment Funnel & Backout Analysis Dashboard
 
 ## Project Overview
@@ -8,8 +5,6 @@ Power BI dashboard analyzing recruitment funnel, offer-to-join conversion ratio,
 The Recruitment Funnel & Backout Analysis Dashboard is designed to analyze the hiring conversion process from offer release to final candidate joining.
 
 This dashboard helps track offer-to-join conversion rates, identify backout patterns, and analyze delay-based drop-offs to improve recruitment efficiency and decision-making.
-
----
 
 ## Business Objective
 
@@ -20,9 +15,7 @@ This dashboard helps track offer-to-join conversion rates, identify backout patt
 - Analyze Recruiter-wise conversion rates  
 - Enable data-driven recruitment decisions  
 
----
-
-- ## Tech Stack
+ ## Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -48,8 +41,6 @@ It includes:
 
 Note: No real company data has been used.
 
----
-
 ## Key Features
 
 - KPI Cards (Total Offers, Total Joined, Backout %, Offer-to-Join Ratio)  
@@ -60,15 +51,11 @@ Note: No real company data has been used.
 - Interactive Slicers (Client & Location Filters)  
 - Source Contribution Analysis  
 
----
-
 ## Key Insights
 
 - Candidates with 16+ days joining delay show the highest drop-off rate.  
 - Certain clients contribute higher backout percentages.  
 - Internal sourcing channels demonstrate better conversion performance.  
-
----
 
 ## Business Impact
 
@@ -80,7 +67,6 @@ This dashboard enables recruitment teams to:
 - Identify high-risk clients  
 - Make informed, data-driven hiring decisions  
 
----
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.png)
